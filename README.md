@@ -16,19 +16,19 @@
 <samp>
    Algunas de sus propiedades son:
    <br/>
-   ☑️ Math.E (constante de Euler)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.E.js">Math.E (constante de Euler)</a>
    <br/>
-   ☑️ Math.LN2 (Logaritmo natural de 2)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.LN2.js">Math.LN2 (Logaritmo natural de 2)</a>
    <br/>
-   ☑️ Math.LN10 (Logaritmo natural de 10)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.LN10.js">Math.LN10 (Logaritmo natural de 10)</a>
    <br/>
-   ☑️ Math.LOG2E (Logaritmo de E con base 2)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.LOG2E.js">Math.LOG2E (Logaritmo de E con base 2)</a>
    <br/>
-   ☑️ Math.LOG10E (Logaritmo de E con base 10)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.LOG10E.js">Math.LOG10E (Logaritmo de E con base 10)</a>
    <br/>
-   ☑️ Math.PI (Constante PI)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.PI.js">Math.PI (Constante PI)</a>
    <br/>
-   ☑️ Math.SQRT2 (Raíz cuadrada de 2)
+   ☑️ <a href="https://github.com/JPichardo99/Objeto-Math-JavaScript/blob/main/Propiedades/Math.SQRT2.js">Math.SQRT2 (Raíz cuadrada de 2)</a>
 </samp>
 <br/>
 <br/>
